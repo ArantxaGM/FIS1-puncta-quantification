@@ -71,8 +71,4 @@ The macro was tested using Fiji/ImageJ version 1.54p.
 
 If you use this macro, please cite this repository and the associated publication, when available.
 
-Repository: [Add repository URL]
-
-Version: [Add release version]
-
-DOI: [Add DOI when available]
+Repository: https://github.com/ArantxaGM/FIS1-puncta-quantification.git
